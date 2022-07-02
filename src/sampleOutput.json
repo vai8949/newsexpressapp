@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 305,
+  "articles": [
+    {
+      "source": {
+        "id": "reuters",
+        "name": "Reuters"
+      },
+      "author": null,
+      "title": "Asia shares tense as Fed looms, Ukraine a concern - Reuters",
+      "description": "Asian share markets slipped on Monday with the Federal Reserve expected to confirm it will soon start draining the massive liquidity that has fuelled the huge gains in growth stocks in recent years.",
+      "url": "https://www.reuters.com/markets/europe/global-markets-wrapup-1-pix-2022-01-24/",
+      "urlToImage": "https://www.reuters.com/resizer/u3JYBcmaWOBRu9OH98h_5xmDYqg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/IPLCLPYARJK45AHNKI4CTTGDUQ.jpg",
+      "publishedAt": "2022-01-24T00:35:00Z",
+      "content": "SYDNEY, Jan 24 (Reuters) - Asian share markets slipped on Monday with the Federal Reserve expected to confirm it will soon start draining the massive liquidity that has fuelled the huge gains in grow… [+3790 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Android Central"
+      },
+      "author": "Jim Metzendorf",
+      "title": "AC Podcast 555: Pixel 6 Fixes; NVIDIA Shield TV Bugs",
+      "description": "The January 2022 update is available now for Pixel 6 phones. It brings some quality of life improvements for their users. But the the news isn't so good for NVIDIA Shield TV after an Android 11 update. However, NVIDIA says fixes for Plex, Kodi, and more are o…",
+      "url": "https://www.androidcentral.com/ac-podcast-555-pixel-6-fixes-nvidia-shield-tv-bugs",
+      "urlToImage": "https://www.androidcentral.com/sites/androidcentral.com/files/styles/large/public/article_images/2021/10/google-pixel-6-home-screen-material-you.jpg",
+      "publishedAt": "2022-01-24T01:46:52Z",
+      "content": "The January 2022 update is available now for Pixel 6 phones. It brings some quality of life improvements for their users. But the the news isn't so good for NVIDIA Shield TV after an Android 11 updat… [+442 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Mike Murphy",
+      "title": "Futures Movers: Stock futures rise Sunday after Wall Street’s worst week since 2020",
+      "description": "The upcoming week will see a number of quarterly earnings reports from big-name companies and a meeting of the Federal Reserve.",
+      "url": "https://www.marketwatch.com/story/stock-futures-rise-sunday-after-wall-streets-worst-week-since-2020-11642982623",
+      "urlToImage": "https://images.mktw.net/im-435623/social",
+      "publishedAt": "2022-01-24T00:03:00Z",
+      "content": "U.S. stock-index futures rose on Sunday, following the worst week on Wall Street since March 2020.Dow Jones Industrial Average futures \r\n YM00,\r\n +0.43%\r\ngained more than 100 points Sunday evening, w… [+1029 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Mike Murphy",
+      "title": "What's Worth Streaming: Here’s everything coming to HBO Max in February 2022 — and what’s leaving",
+      "description": "Get ready for new seasons of 'Last Week Tonight' and 'Raised By Wolves,' a new movie from Steven Soderbergh and much more.",
+      "url": "https://www.marketwatch.com/story/heres-everything-coming-to-hbo-max-in-february-2022-and-whats-leaving-11642988254",
+      "urlToImage": "https://images.mktw.net/im-472598/social",
+      "publishedAt": "2022-01-24T01:37:00Z",
+      "content": "AT&amp;Ts \r\n T,\r\n -1.52%\r\nHBO Max has a solid slate of originals coming in February, along with some big-name movies and the season finales of some of its buzziest shows.While its the end of the seas… [+8478 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "はらいさん",
+      "title": "ベルキンから全長2メートルのケーブル＆スタンド付きMagSafe対応充電器が発売",
+      "description": "ベルキンからiPhone12/13対応の「MagSafe認証ポータブルワイヤレス充電パッド 15W」発売。ケーブルが2mと長めで使いやすい。",
+      "url": "https://www.gizmodo.jp/2022/01/magsafe-certified-portable-wireless-charging-pad.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/24/webdam.web.1000.10002-w960.jpeg",
+      "publishedAt": "2022-01-24T02:00:00Z",
+      "content": "ApplebelkinMagSafe\r\nMagSafe 15WiPhone 12/1315W\r\nImage: belkin\r\nMagSafe\r\nMagSafe\r\nApple4,950\r\nbelkin6,800Apple\r\nApple\r\nbelkin\r\nApple1m\r\nbelkin2m\r\nApple\r\nbelkin\r\nApple\r\nbelkin\r\nMagSafe1m\r\nMagSafe15W6,8… [+39 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Gizmodo.jp"
+      },
+      "author": "湯木進悟",
+      "title": "Appleの学割、利用に身分証明が必須の方針へ",
+      "description": "Android Policeは、米国内でAppleの学割を利用するために、UNiDAYSによる身分証明を受けなければならない方針へと切り替わったことを伝えました。基本的には、ちゃんと大学などへ通っていることの証しとなる「.edu」ドメインでのメールアドレスを保有しているかどうかで認証するプロセスが、毎年なされるんだとか。",
+      "url": "https://www.gizmodo.jp/2022/01/apple-student-discount.html",
+      "urlToImage": "https://assets.media-platform.com/gizmodo/dist/images/2022/01/22/220119macbooksedream02-w960.jpg",
+      "publishedAt": "2022-01-24T03:00:00Z",
+      "content": "Copyright © mediagene Inc. All Rights Reserved."
+    },
+    {
+      "source": {
+        "id": "engadget",
+        "name": "Engadget"
+      },
+      "author": "小口貴宏(Takahiro Koguchi)",
+      "title": "ワイモバイル、持ち込みiPhoneにキャリア保証適用。SIM単体契約者向け　月950円〜",
+      "description": "ワイモバイルは、SIM単体で新規契約し、かつ対象のiPhoneを利用するユーザー向けに、Apple公式の修理サービスとテクニカルサポートが受けられる「持込端末保証with AppleCare Services」の提供を1月25日から開始します。",
+      "url": "https://japanese.engadget.com/iphone-sim-014111954.html",
+      "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/b191cd10-7cb5-11ec-a3fe-1f3c374e7c52",
+      "publishedAt": "2022-01-24T01:41:11Z",
+      "content": "SIMiPhoneApplewith AppleCare Services125\r\nwith AppleCare ServicesiPhoneAppleApple\r\n1250\r\n<ul><li>iPhone 13 ProiPhone 13 Pro Max\r\n</li><li>iPhone 12 ProiPhone 12 Pro Max\r\n</li><li>iPhone 11 ProiPhone … [+287 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Andreas Donath",
+      "title": "Project Titan: Technischer Leiter für Apples Autoprojekt wirft hin",
+      "description": "Der Leiter des Software-Engineering-Programms für Apples Autoteam hat das Unternehmen nach sieben Jahren verlassen. (Apple Car, Apple)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fproject-titan-technischer-leiter-fuer-apples-autoprojekt-wirft-hin-2201-162612-rss.html&referer=https%3A%2F%2Ft.co%2F3a9e3480c0",
+      "urlToImage": null,
+      "publishedAt": "2022-01-24T06:12:02Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Golem.de"
+      },
+      "author": "Andreas Donath",
+      "title": "Softwarefehler: iPhone 13 mit rosa eingefärbten Displays",
+      "description": "Einige Besitzer des Apple iPhone 13 berichten von einem rosafarbenen Bildschirm. Apple spricht von einem Softwarefehler, der behoben werde. (iPhone 13, Display)",
+      "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fsoftwarefehler-iphone-13-mit-rosa-eingefaerbten-displays-2201-162614-rss.html&referer=https%3A%2F%2Ft.co%2F8fe7921fdb",
+      "urlToImage": null,
+      "publishedAt": "2022-01-24T06:36:03Z",
+      "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking, indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informatio… [+575 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "author": null,
+      "title": "DeFi traders complain about network instability that hit Solana this weekend, four months after its last outage; Solana pushes update to fix \"the worst effects\" (Frank Chaparro/The Block)",
+      "description": "Frank Chaparro / The Block:\nDeFi traders complain about network instability that hit Solana this weekend, four months after its last outage; Solana pushes update to fix “the worst effects”  —  Jim Greco, like many traders who have had to deal with the Solana …",
+      "url": "https://www.techmeme.com/220123/p7",
+      "urlToImage": "https://www.tbstat.com/wp/uploads/2021/05/20210527_Solana_Generic_2.jpg",
+      "publishedAt": "2022-01-24T01:25:13Z",
+      "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "author": null,
+      "title": "OfficeSpace Software, which lets companies manage hybrid workspaces, desk and room booking, raises $150M from Vista Equity Partners (PYMNTS.com)",
+      "description": "PYMNTS.com:\nOfficeSpace Software, which lets companies manage hybrid workspaces, desk and room booking, raises $150M from Vista Equity Partners  —  Workspace management platform OfficeSpace Software has received a $150 million strategic investment from the in…",
+      "url": "https://www.techmeme.com/220124/p1",
+      "urlToImage": "https://securecdn.pymnts.com/wp-content/uploads/2022/01/OfficeSpace-Software-investments-funding-1000x600.jpg",
+      "publishedAt": "2022-01-24T05:25:07Z",
+      "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "author": null,
+      "title": "Australian PM Scott Morrison lost control of his official WeChat account months ago, while the still-active account now promotes Chinese life in Australia (Kirsty Needham/Reuters)",
+      "description": "Kirsty Needham / Reuters:\nAustralian PM Scott Morrison lost control of his official WeChat account months ago, while the still-active account now promotes Chinese life in Australia  —  Australia's Prime Minister Scott Morrison's Liberal Party lost access to h…",
+      "url": "https://www.techmeme.com/220124/p2",
+      "urlToImage": "https://www.reuters.com/resizer/uRhMsq9caR5u4J_msTo6CrWI7y8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/XJWBGZPHORP3RE3G54CMLCEHQI.jpg",
+      "publishedAt": "2022-01-24T06:35:06Z",
+      "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+    },
+    {
+      "source": {
+        "id": "techcrunch",
+        "name": "TechCrunch"
+      },
+      "author": "David Donovan,Dragonfly",
+      "title": "【コラム】暗号資産の規制が米国でスーパーアプリが生まれるきっかけになるかもしれない",
+      "description": "今や、中国社会の大部分が「スーパーアプリ」と呼ばれるものに依存するようになった。診察の予約からタクシーの配車、ローンの申し込みに至るまで、さまざまなタスクを1つのプラットフォームでこなすWeChat（ウィーチャット）などのアプリのことだ。\r\n\r\n米国ではこのようなワンストップショップが勢いに乗ることはなかったが、ついに米国でもそのときが来たのかもしれない。フィンテック業界、とりわけ暗号資産を専門とするプラットフォームからスーパーアプリが誕生する可能性が高いのだ。\r\n\r\n株価の高騰と金利の記録的な低下、近い将来に起…",
+      "url": "https://jp.techcrunch.com/2022/01/24/2022-01-07-regulating-crypto-could-create-american-super-apps/",
+      "urlToImage": "https://jp.techcrunch.com/wp-content/uploads/2022/01/GettyImages-1204764194.jpeg?w=1024",
+      "publishedAt": "2022-01-24T01:00:13Z",
+      "content": "1WeChat\r\nCoinbasePayPalVenmoStripe\r\nStripe\r\nWeChat20112013\r\nWeChatWeChat10AliPay210\r\nAppleFacebookGoogleVenmoSquare\r\n1\r\n11\r\nTikTokSnapchatApple1\r\n12\r\nDeFi\r\n101DeFiEthereumDogecoin\r\nCoinbaseCoinbaseSt… [+140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "36kr.com"
+      },
+      "author": "8点1氪",
+      "title": "8点1氪丨苹果推迟要求App必须有删除账号功能；有赞回应裁员；小红书违反未成年人保护法被罚30万元",
+      "description": "上市进行时 \n吉安满坤科技 \n据创业板上市委消息，吉安满坤科技股份有限公司、笛东规划设计（北京）股份有限公司首发1月28日上会。（证券时报） \n大公司 \n苹果要求App必须内置删除账号功能，但可以宽限一段时间 \n1月23日消息，苹果公司推迟了一些原定于1月31日生效的规则的执行，其中包括关于App必须提供内置的账户删除功能的规定。苹果此前宣布，从2022年1月底开始，允许创建账号的App必须允许用户从App中删除账号。苹果表示，它正在给App发布者和开发者更多的时间，因为它认识到提供此功能的复杂性。（IT之家） …",
+      "url": "https://36kr.com/p/1584511941282312",
+      "urlToImage": "https://img.36krcdn.com/20220124/v2_dd56e39d6312436784677c0f52c60bf7_img_000?x-oss-process=image/resize,m_mfit,w_600,h_400,limit_0/crop,w_600,h_400,g_center",
+      "publishedAt": "2022-01-24T00:16:51Z",
+      "content": "128\r\nApp\r\n123131App20221AppAppAppIT\r\n1500Allvalue\r\n30 \r\nApp3012\r\n·MetaVR20222025\r\n2022\r\n202120215%202025%2022120103.5 \r\n361232022123\r\n21100100\r\n12\r\n36BU COO122023-202420252030 \r\n20182021700034%SWIFT2… [+392 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "36kr.com"
+      },
+      "author": "Ben",
+      "title": "一年融资400亿，这里是独角兽公园，2022中国自动驾驶行业研究报告 | 36氪新风向",
+      "description": "文：石亚琼（36氪） Ben（36氪） 蒙佳玥（汉能） 黄萌（汉能） 张欣蔚（汉能） 吴昊（汉能） 殷少轶（汉能） \n编辑：石亚琼 \n  \n前言 \n2022年对于中国的自动驾驶行业而言将意义非凡。 \n在刚刚过去的2021年，11月25日，北京市智能网联汽车政策先行区，正式对外发布《北京市智能网联汽车政策先行区自动驾驶出行服务商业化试点管理实施细则（试行）》，并向部分企业颁发国内首批自动驾驶车辆收费通知书。 \n北京成为国内首个明确认可自动驾驶”Robotaxi“商业化试点的城市，这也标志着国内自动驾驶赛道终于迎来了…",
+      "url": "https://36kr.com/p/1569071064895112",
+      "urlToImage": "https://img.36krcdn.com/20220124/v2_4f3e0366efd948b8b03467480cad6ba7_img_png",
+      "publishedAt": "2022-01-24T03:00:08Z",
+      "content": "36 Ben36 \r\n2022\r\n20211125\r\nRobotaxi\r\n2021DMV2020AutoXPony.aiMPIMiles per InterventionWaymoCruise\r\n2016202194435\r\n3Momenta\r\nMaaSMobility as a Service/TaaSTransportation as a Service\r\n365\r\n1. \r\n1.1. \r\n… [+6677 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Techmeme.com"
+      },
+      "author": null,
+      "title": "Amid a shift in malware targeting UEFI firmware, Kaspersky details new MoonBounce UEFI bootkit that can survive even after swapping the infected PC's hard drive (Catalin Cimpanu/The Record)",
+      "description": "Catalin Cimpanu / The Record:\nAmid a shift in malware targeting UEFI firmware, Kaspersky details new MoonBounce UEFI bootkit that can survive even after swapping the infected PC's hard drive  —  Security researchers from Kaspersky said on Thursday that they h…",
+      "url": "https://www.techmeme.com/220123/p8",
+      "urlToImage": "https://therecord.media/wp-content/uploads/2022/01/moon-night-sky-cloud.jpg",
+      "publishedAt": "2022-01-24T04:15:00Z",
+      "content": "Big Technology— by Alex Kantrowitz\r\nRevealing the systems in the tech world that drive what we see in the headlines, focusing primarily on the tech giants: Amazon, Apple, Facebook, Google, and Micros… [+3 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Lifehacker.ru"
+      },
+      "author": "Дарья Костючкова",
+      "title": "Подкаст «Теперь понятно»: мифы про римский бетон и аккумуляторы из Месопотамии",
+      "description": "Кажется, баек о древности существует едва ли не больше, чем сохранившихся до наших дней артефактов.",
+      "url": "https://lifehacker.ru/teper-ponyatno-120/",
+      "urlToImage": "https://cdn.lifehacker.ru/wp-content/uploads/2021/07/teper_ponyatno_zastavka_1627566064-1280x640.jpg",
+      "publishedAt": "2022-01-24T05:00:01Z",
+      "content": ": , , . , , . , . . , . « ».\r\n , .\r\n « » , : Apple Podcasts, Google Podcasts, YouTube, Anchor, «.», «», Spotify, ."
+    },
+    {
+      "source": {
+        "id": "lenta",
+        "name": "Lenta"
+      },
+      "author": "Андрей Ставицкий",
+      "title": "Раскрыты новые девайсы Apple",
+      "description": "Осенью Apple планирует представить несколько продуктовых линеек, не считая девайсов серии iPhone 14. Согласно информации колумниста Марка Гурмана, компания Тима Кука намеренно откладывает выпуск многих новых устройств на конец года. Первым мероприятием IT-гиг…",
+      "url": "https://lenta.ru/news/2022/01/24/apple_2022/",
+      "urlToImage": "https://icdn.lenta.ru/images/2022/01/24/09/20220124090656478/share_d4f4f94e6e92021cbf6753f076351cbb.jpg",
+      "publishedAt": "2022-01-24T06:08:31Z",
+      "content": "Apple , iPhone 14. 9to5mac.\r\nBloomberg (Mark Gurman). , . « , Apple », .\r\n , iPhone 14. Apple iPad iPad Pro. Apple Watch. , MacBook Air, MacBook Pro, AirPods Pro. Apple iMac Mac Pro M.\r\n IT- 2022 , .… [+57 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbeta.com"
+      },
+      "author": "study875",
+      "title": "[图]苹果迷惑设计图鉴",
+      "description": "苹果不断在强调其产品设计融入了深度思考。在 2016 年发布的摄影集《Designed by Apple in California》序言中，Jony Ive 解释了该公司如何努力“定义看起来毫不费力的物体”，以及“如此简单、连贯和不可避免，以至于没有合理的替代方案”。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1229455.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2022/0124/e602bb5fea43199.webp",
+      "publishedAt": "2022-01-24T04:22:33Z",
+      "content": "MacRumors \r\n Magic Mouse 2\r\n 2015 \r\nMagic Mouse 2 \r\n2021 4 6 iMac iMac Magic Mouse 2 Lightning \r\nApple/Siri Remote (2015-2021)\r\n 2015 Siri Apple TV Siri Remote \r\n tvOS \r\nSiri \r\n2021 Apple TV 4K Siri … [+539 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cnbeta.com"
+      },
+      "author": "study875",
+      "title": "新款iPad Pro将配M2芯片 但不支持MagSafe无线充电",
+      "description": "知名爆料人士 @Dylandkt 在最新推文中表示：“M2 iPad Pro将于今年秋季到来”。由于目前的 iPad Pro 型号使用 M1 芯片，因此后续机型升级到 M2 芯片是完全合理的。 阅读全文",
+      "url": "https://www.cnbeta.com/articles/tech/1229333.htm",
+      "urlToImage": "https://static.cnbetacdn.com/article/2022/0124/94002fd04ff667c.png",
+      "publishedAt": "2022-01-24T01:02:43Z",
+      "content": "7 3 Apple Silicon \r\niPad Pro M2 14 MacBook Pro 2022 M2 2022 MacBook Air M2\r\n iPad Pro MagSafe Dylandkt 2022/MagSafe\r\n 11 iPad Pro 12.9 iPad Pro mini LED 2021"
+    }
+  ]
+}
