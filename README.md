@@ -1,3 +1,15 @@
+This is a news web app working or real time API using react , one can fetch information of any type of news of their interest .
+Entertainment , 
+Sports,
+Technology, 
+Science,
+Health,
+Business 
+
+are some of the categories added .
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
